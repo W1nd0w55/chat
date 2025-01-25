@@ -1,2 +1,2 @@
-# website
-GitHub repository for my website
+# chat
+GitHub repository for my chatroom.
