@@ -19,11 +19,11 @@ To contribute:
 <ol>
 	<li>
 		Create a new branch. This is where you'll work:
-		'''git checkout -b [branch name]'''
+		'''git checkout -b [branch]'''
 	</li>
 	<li>
 		If you want to work on an existing branch:
-		'''git pull origin [branch name]'''
+		'''git pull origin [branch]'''
 	</li>
 </ol>
 To publish:
@@ -34,11 +34,11 @@ To publish:
 	</li>
 	<li>
 		Open a pull request:
-		Go to '''https://github.com/W1nd0w55/chat/pull/new/[branch name]'''
+		Go to '''https://github.com/W1nd0w55/chat/pull/new/[branch]'''
 	</li>
 	<li>
 		Once it is approved, delete your local branch:
-		'''git branch -D [branch name]''',
+		'''git branch -D [branch]''',
 		and pull from master:
 		'''git pull origin master'''
 	</li>
