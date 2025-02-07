@@ -2,7 +2,7 @@
 GitHub repository for my chatroom.
 
 # Development
-To set up:
+## Setup
 <ol>
 	<li>Set up your project directory</li>
 	<li>
@@ -15,7 +15,7 @@ To set up:
 	</li>
 	<li>Finally, run '''git pull origin master''' to get the '''master''' branch (or whatevet branch you want)</li>
 </ol>
-To contribute:
+## Contributing
 <ol>
 	<li>
 		Create a new branch. This is where you'll work:
@@ -26,7 +26,7 @@ To contribute:
 		'''git pull origin [branch]'''
 	</li>
 </ol>
-To publish:
+## Publishing
 <ol>
 	<li>
 		Commit everything to your branch:
